@@ -1,3 +1,14 @@
+Good practise: 
+
+Commenting your code (lol)
+Not vibecoding
+Splitting into different files
+Not pushing html files, that were autgenerated
+
+
+
+TODO Implementing Strategies:
+
 1. **Moving Average Crossover**: Buy when a short-term MA crosses above a long-term MA; sell on the reverse.
 
 2. **Mean Reversion**: Trade assuming prices revert to the mean, using indicators like Bollinger Bands to identify deviations.
