@@ -1,3 +1,5 @@
+Kein Tradingbot, Tradingtester Webseite
+
 Good practise: 
 
 Commenting your code (lol)
@@ -10,6 +12,8 @@ lass so das repo machen zu so ein repo von all den bekannten/available trading a
 ja safe, genau so dacht ich auch, was meinst du aber mit *repo machen zu so ein repo* 
 
 halt einfach eine Webseite, bei der man einen stock auswählen kann und eine Strategie und sehen kann, ob die strategie performt oder nicht. WIr können dazu noch ein bissl die strategien beschreiben so als lernplattform, und wir können auch die strategie bewerten so in ner Skala, 
+
+
 
 TODO Implementing Strategies:
 
